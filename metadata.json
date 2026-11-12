@@ -1,0 +1,6 @@
+{
+  "name": "NISHANE Haute Parfumerie",
+  "description": "Artisanal luxury e-commerce experience for niche fragrance house Nishane, featuring atmospheric olfactory art, interactive fragrance finder, and discovery coffret.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
